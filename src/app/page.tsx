@@ -54,7 +54,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Find in-depth information about Arjun's data science projects and methodologies.
+            Find in-depth information about Arjun&apos;s data science projects and methodologies.
           </p>
         </a>
 
@@ -71,7 +71,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Learn about data science through Arjun's interactive courses and quizzes!
+            Learn about data science through Arjun&apos;s interactive courses and quizzes!
           </p>
         </a>
 
@@ -105,7 +105,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Instantly deploy your data science projects with Arjun's tools.
+            Instantly deploy your data science projects with Arjun&apos;s tools.
           </p>
         </a>
       </div>
